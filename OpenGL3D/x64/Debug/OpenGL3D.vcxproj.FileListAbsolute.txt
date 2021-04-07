@@ -1,0 +1,2 @@
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\x64\Debug\OpenGL3D.vcxproj.CopyComplete
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGLMike\OpenGL3D\x64\Debug\OpenGL3D.vcxproj.CopyComplete

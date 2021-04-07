@@ -1,0 +1,25 @@
+﻿  glad.c
+  OpenGL3D.cpp
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\Shader.h(56,40): warning C4101: 'e': unreferenced local variable
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\Mesh.h(85,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(213,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(244,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(245,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(274,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(275,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(282,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(283,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(290,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(291,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(298,61): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(299,65): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(307,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(308,60): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(341,38): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(411,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(412,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(416,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(417,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(418,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\ginka\Desktop\Sem5\GK1\Projekt4\OPENGL\OpenGL3D\OpenGL3D\OpenGL3D.cpp(419,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+BackpackModel\backpack.obj : fatal error LNK1136: invalid or corrupt file
